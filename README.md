@@ -1,5 +1,4 @@
-So, this is something that I just thought of while grinding in dank memer (its a discord bot if you don't know), (which was also when i just started learning python) and since most of the games on dank memer are fairly
-simple. So, I thought of creating them myself and whcih later turned into a very big obsession of making it better. Which grew all the time. So, this the final thing.
+So, this is something that I just thought of while grinding in dank memer (its a discord bot if you don't know), and I just started learning pythonat that time and since most of the games on dank memer are fairly simple. So, I thought of creating them myself and whcih later turned into a very big obsession of making it better. Which grew all the time. So, this the final thing.
 
 At first I started by using classes which was a complete disaster, and later turned to simple functions, whcich are indeed much more efficient and simple to 
 understand. 
